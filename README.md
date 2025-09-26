@@ -59,3 +59,8 @@ print(face_recognition.__version__)
 print(cv2.__version__)
 print(np.__version__)
 ```
+## 4. Team Members
+Group: IoT702
+1. Basmala Ehab
+2. Roshdy Zarif
+3. Peter Mina
